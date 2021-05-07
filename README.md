@@ -1,1 +1,3 @@
-# Python-3-Object-Oriented-Programming-Book-Exercises
+#Python 3 Object-oriented Programming, Third Edition
+
+No code files for Chapter 1.
